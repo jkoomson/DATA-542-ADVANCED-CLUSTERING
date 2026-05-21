@@ -117,7 +117,7 @@ Future students, researchers, and practitioners are welcome to explore these pro
 
 All projects were completed by students as part of coursework in the **Advanced Clustering Methods** course under the guidance of **John Koomson**.
 
-Please provide appropriate acknowledgment if referencing or adapting material from this repository.
+Please provide appropriate acknowledgment to students if referencing or adapting material from this repository.
 
 ---
 
