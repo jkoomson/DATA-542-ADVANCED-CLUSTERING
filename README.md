@@ -15,8 +15,8 @@
 
 Welcome to the official student project repository for the **Advanced Clustering Methods** course in the Department of Mathematical Sciences, instructed by John Koomson. Students hold the authorship of this project, and can be contacted for further review. Sample work for both groups has been published on RPubs:
 
-https://rpubs.com/imbanira/1432575
-https://rpubs.com/vhu/1432644
+- https://rpubs.com/imbanira/1432575
+- https://rpubs.com/vhu/1432644
 
 This repository showcases student work focused on:
 
