@@ -11,12 +11,19 @@
   <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1400&auto=format&fit=crop" width="900" />
 </p>
 
+
+
 ## 📘 About This Repository
+
 
 Welcome to the official student project repository for the **Advanced Clustering Methods** course in the Department of Mathematical Sciences, instructed by John Koomson. Students hold the authorship of this project, and can be contacted for further review. Sample work for both groups has been published on RPubs:
 
 - https://rpubs.com/imbanira/1432575
 - https://rpubs.com/vhu/1432644
+
+
+
+
 
 This repository showcases student work focused on:
 
@@ -25,6 +32,7 @@ This repository showcases student work focused on:
 * Statistical learning techniques
 * Real-world data analytics
 * Interactive data science applications
+
 
 Projects explore datasets from domains such as:
 
@@ -36,6 +44,7 @@ Projects explore datasets from domains such as:
 🎓 Education Analytics
 
 ---
+
 
 ## 🚀 Project Objectives
 
