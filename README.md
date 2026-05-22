@@ -121,6 +121,4 @@ Please provide appropriate acknowledgment to students if referencing or adapting
 
 ---
 
-<p align="center">
-  ⭐ If you find these projects useful or inspiring, feel free to star the repository.
-</p>
+
